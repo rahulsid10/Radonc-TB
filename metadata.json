@@ -1,0 +1,5 @@
+{
+  "name": "RadOnc Tumor Board Sim",
+  "description": "An interactive tumor board simulator for Radiation Oncology residents, featuring sequential case reveals, guideline-based feedback, and automated patient chart updates.",
+  "requestFramePermissions": []
+}
